@@ -40,8 +40,8 @@ Tujuan dari pembuatan aplikasi ini adalah:
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone <url-repository-anda>
-cd <nama-folder-repository>
+git clone https://github.com/nyaw216/PenghitungBanyakKata/
+cd PenghitungBanyakKata
 ```
 
 ### 2️⃣ Buat Environment
